@@ -20,7 +20,6 @@ In this article, we will look at the MNIST dataset and create a simple neural ne
 ### Performance Evaluation of the Network
 
 ![training_loss_accuracy](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/ddd93fe1-76d2-411e-a935-5972ed795996)
-![classification_report](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/cec5e03b-1c01-4c37-8582-0a7e9af68393)
 ![actual vs predicted labels](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/27f71781-ea2d-4c99-90c7-e7ffaccf48db)
 ![confusion_matrix](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/49ac6079-5d8b-4e5b-bda7-7c7e0dfc0ce0)
 ![model_comparison](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/c8f7c0dd-2eab-4e01-844e-14d7c6066c3d)
