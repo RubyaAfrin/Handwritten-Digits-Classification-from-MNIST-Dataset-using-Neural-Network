@@ -10,7 +10,7 @@ Handwritten digit Classification is the problem where machines recognize and cla
 * MNIST dataset contains 60,000 training images and 10,000 testing images that are classified into corresponding labels from 0 to 9. So, MNIST dataset has 10 different classes.
 * MNIST dataset images are represented as a 28×28 matrix where each cell contains grayscale pixel value ranging from 0 (black) to 255 (white).
 
-  ![sample_MNIST_images](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Deep-Learning/assets/7861918/eb3c1713-745a-4331-b96a-7475864bea7b)
-                                            Fig: A Sample of MNIST Dataset
+                    ![sample](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Deep-Learning/assets/7861918/da98c0a3-318b-4db2-a154-c25007c4f0fd)
+                     Fig: A Sample of MNIST Dataset
 
 In this article, we will look at the MNIST dataset and create a simple neural network using TensorFlow and Keras. Later we will also add a hidden layer to make the model more accurate.
