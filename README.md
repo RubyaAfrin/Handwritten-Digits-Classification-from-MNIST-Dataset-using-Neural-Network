@@ -18,12 +18,11 @@ Handwritten digit Classification is the problem where machines recognize and cla
 In this article, we will look at the MNIST dataset and create a simple neural network using TensorFlow and Keras. Later we will also add a hidden layer to make the model more accurate.
 
 ### Performance Evaluation of the Network
-
-![model_comparison](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/7de1f9d5-fb12-4216-a395-f310fdf9cb19)
-![actual vs predicted labels](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/f639b9c1-feec-4298-b470-130a40332cdb)
-![classification_report](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/a6ed9fc7-0fcb-4462-9c5e-3924183734af)
-![confusion_matrix](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/50c9fa82-6ee5-41b4-b5fe-d220fd8f4745)
-![training_loss_accuracy](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/09ffd7df-e579-4a6c-bfd4-61b04ace24e9)
+![model_comparison](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/c8f7c0dd-2eab-4e01-844e-14d7c6066c3d)
+![actual vs predicted labels](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/27f71781-ea2d-4c99-90c7-e7ffaccf48db)
+![classification_report](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/cec5e03b-1c01-4c37-8582-0a7e9af68393)
+![confusion_matrix](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/49ac6079-5d8b-4e5b-bda7-7c7e0dfc0ce0)
+![training_loss_accuracy](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/assets/7861918/ddd93fe1-76d2-411e-a935-5972ed795996)
 
 ## LICENSE
 The project is licensed under MIT License (a permissive license with conditions only requiring preservation of copyright and license notices).
