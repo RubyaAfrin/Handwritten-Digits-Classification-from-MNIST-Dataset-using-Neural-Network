@@ -1,4 +1,4 @@
-# Handwritten-Digits-Classification-from-MNIST-Dataset-using-Deep-Learning
+# Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network
 
 ## Inroduction
 
