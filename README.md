@@ -16,3 +16,7 @@ Handwritten digit Classification is the problem where machines recognize and cla
 ### Neural Network for Classification 
 
 In this article, we will look at the MNIST dataset and create a simple neural network using TensorFlow and Keras. Later we will also add a hidden layer to make the model more accurate.
+
+## License
+The project is licensed under MIT License (a permissive license with conditions only requiring preservation of copyright and license notices).
+You may see the License at [LICENSE](https://github.com/afrin110203/LogAnomaliesDetectionDL/blob/main/LICENSE) file.
