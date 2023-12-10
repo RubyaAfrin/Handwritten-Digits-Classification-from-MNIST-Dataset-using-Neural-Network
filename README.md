@@ -19,4 +19,5 @@ In this article, we will look at the MNIST dataset and create a simple neural ne
 
 ## License
 The project is licensed under MIT License (a permissive license with conditions only requiring preservation of copyright and license notices).
-You may see the License at [LICENSE](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/blob/main/LICENSE) file.
+
+Details at [LICENSE](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/blob/main/LICENSE) file.
