@@ -3,7 +3,7 @@
 ## Inroduction
 
 ### What is Handwritten Digit Classification?
-Handwritten digit Classification is the problem where machines recognize and classify human handwritten digits. The task is take images of a digit as an input and classify the digit correctly in the image.
+Handwritten digit Classification is the problem where machines recognize and classify human handwritten digits. The task is to take images of a digit as an input and classify the digit correctly in the image as an output.
 
 ### MNIST dataset
 * MNIST is a collection of handwritten digits images ranging from the number 0 to 9. 
