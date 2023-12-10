@@ -17,7 +17,7 @@ Handwritten digit Classification is the problem where machines recognize and cla
 
 In this article, we will look at the MNIST dataset and create a simple neural network using TensorFlow and Keras. Later we will also add a hidden layer to make the model more accurate.
 
-## License
+## LICENSE
 The project is licensed under MIT License (a permissive license with conditions only requiring preservation of copyright and license notices).
 
 Details at [LICENSE](https://github.com/afrin110203/Handwritten-Digits-Classification-from-MNIST-Dataset-using-Neural-Network/blob/main/LICENSE) file.
